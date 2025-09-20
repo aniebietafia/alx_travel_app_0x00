@@ -1,5 +1,5 @@
 # ALX Travel App
-This is a simple travel application built using React Native. The app allows users to explore various travel destinations, view details about each destination, and manage their favorite places.
+This is a simple travel application built using Django. The app allows hosts to make Listings, users can make Bookings on Listings and also Review the Listings .
 
 ## Setting Up the Project
 To set up the project, follow these steps:
